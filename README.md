@@ -13,3 +13,6 @@
 #### html: The html library contains tools for working with HTML and escaping/unescaping characters for use in HTML documents.
 #### time: This library provides various time-related functions, such as getting the current time, pausing program execution, and measuring time intervals.
 #### matplotlib.pyplot: This library provides a MATLAB-like interface for creating and customizing visualizations in Python. It is often used for creating plots, charts, and other types of graphical representations of data.
+
+![Screenshot 2024-05-03 184509](https://github.com/nityaoberoi09/Traffic-Accident-Prediction/assets/140199047/8a0c1f4c-2b44-4da3-b0ba-09ccddbd390a)
+
